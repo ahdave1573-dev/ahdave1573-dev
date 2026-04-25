@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anshul Dave 👋
 
-<!--
-**ahdave1573-dev/ahdave1573-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BCA student @ Atmiya University, Rajkot (CGPA: 8.0)
+💻 Android Developer & Full-Stack Web Developer
+🌱 Currently learning: Advanced Android & Backend APIs
+📫 Reach me: ahdave1573@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahdave1573-dev&show_icons=true&theme=default)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-dave
