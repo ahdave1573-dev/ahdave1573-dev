@@ -30,7 +30,7 @@
 | DigitalBazaar | Full-stack e-commerce platform | PHP, MySQL, JS | [View Repo](https://github.com/ahdave1573-dev/Digital-Bazaar) |
 | QuickBite | Online food ordering system | PHP, MySQL | [View Repo](https://github.com/ahdave1573-dev/QuickBite-Online-Food-Ordering-System) |
 | SmartDocumentMerge | Web-based document merge tool | Python, Flask | [View Repo](https://github.com/ahdave1573-dev/SmartDocumentMerge) |
-| FamilyTracker | Android family tracking app | Java, Firebase | [View Repo](https://github.com/ahdave1573-dev/Fmaily_Tracker_) |
+| FamilyTracker | Android family tracking app | Java, Firebase | [View Repo](https://github.com/ahdave1573-dev/Family_Tracker__) |
 | SkyJumper Game | 2D Android jumping game 60fps | Java, Android | Coming Soon |
 
 ---
