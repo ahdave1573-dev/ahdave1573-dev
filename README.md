@@ -38,4 +38,3 @@ Atmiya University, Rajkot — 2023–2026 | CGPA: 8.0
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-dave-3a0a18345/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahdave1573@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ahdave1573-dev)
-a ma mari cureen cgp and grjuation complet and all in one bazaar ni repo ni link add kari ne apo ok
