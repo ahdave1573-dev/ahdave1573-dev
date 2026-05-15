@@ -38,9 +38,17 @@
 
 ## 📊 GitHub Stats
 
-![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahdave1573-dev&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahdave1573-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahdave1573-dev&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdave1573-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahdave1573-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -59,4 +67,4 @@ Atmiya University, Rajkot — 2023–2026 | **CGPA: 8.23** ✅
 
 ---
 
-⭐️ From [ahdave1573-dev](https://github.com/ahdave1573-dev)
+<p align="center">⭐️ From <a href="https://github.com/ahdave1573-dev">ahdave1573-dev</a></p>
