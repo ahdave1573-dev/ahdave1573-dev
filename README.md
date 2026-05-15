@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Recent BCA Graduate** from Atmiya University, Rajkot (CGPA: 8.23)  
+🎓 **BCA Graduate** from Atmiya University, Rajkot (CGPA: 8.23)  
 💻 Skilled in **Android Development (Java)** and **Full-Stack Web Development** (PHP, MySQL, Python)  
 🏆 **2nd Runner-Up** at ADSC Hackathon 2.0 - Built real-time GPS Family Tracker  
 🔥 Passionate about building **e-commerce platforms**, **mobile apps**, and **cross-platform solutions**  
@@ -61,7 +61,7 @@
 ## 🚀 Featured Projects
 
 ### 1. 🛒 All in One Bazaar – E-Commerce Platform
-**[View Repository](https://github.com/ahdave1573-dev/All-In-One-Bazaar.git)**
+**[View Repository](https://github.com/ahdave1573-dev/All-In-One-Bazaar)**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -166,7 +166,7 @@
 
 **Bachelor of Computer Applications (BCA)**  
 📍 Atmiya University, Rajkot – Gujarat  
-📅 2023 – 2026  
+📅 2023 – 2026 | **Graduated**  
 🎯 **CGPA: 8.23**
 
 ---
