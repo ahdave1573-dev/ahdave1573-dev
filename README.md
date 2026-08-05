@@ -1,4 +1,4 @@
-# Hi, I'm Anshul Dave 👋
+# Hi, I'm Anshul Dave 👋 
 
 🎓 **BCA Graduate** @ Atmiya University, Rajkot (CGPA: 8.23) - Completed 2026  
 💻 **Android Developer & Full-Stack Web Developer**  
